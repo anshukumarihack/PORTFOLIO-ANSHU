@@ -1,7 +1,7 @@
 {
-  "name": "Alex Chen Portfolio",
-  "short_name": "Alex Chen",
-  "description": "Portfolio of Alex Chen - Computer Science Engineer & AI Enthusiast",
+  "name": "Portfolio Website",
+  "short_name": "Portfolio",
+  "description": "A modern personal portfolio website showcasing work, skills, and contact information",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#111114",
