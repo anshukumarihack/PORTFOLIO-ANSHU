@@ -1,20 +1,20 @@
-# Portfolio
+# Anshu Kumar Portfolio
 
-A modern, responsive portfolio website built with React, TypeScript, Vite, Tailwind CSS, and Framer Motion. This project showcases professional experience, skills, projects, certifications, and contact information in a polished single-page experience.
+A modern, elegant, and fully responsive personal portfolio website built with React, TypeScript, Vite, Tailwind CSS, and Framer Motion. It highlights professional experience, technical skills, featured projects, achievements, and contact details in a clean and visually appealing single-page experience.
 
-## Features
+## Live Demo
 
-- Responsive and modern UI
-- Smooth scrolling and animated sections
-- Dark/light theme support
-- Sections for:
-  - Hero introduction
-  - About me
-  - Experience and education
-  - Skills and achievements
-  - Projects and certifications
-  - Testimonials and contact
-- Clean, professional layout optimized for portfolio presentation
+Visit the live portfolio here:
+
+- https://portfolio-anshu-six.vercel.app/
+
+## Highlights
+
+- Modern and polished user interface
+- Smooth animations and interactive UI elements
+- Responsive design for desktop, tablet, and mobile
+- Sections for about, experience, education, skills, projects, certifications, testimonials, and contact
+- Lightweight and fast performance with Vite
 
 ## Tech Stack
 
@@ -28,13 +28,13 @@ A modern, responsive portfolio website built with React, TypeScript, Vite, Tailw
 ## Project Structure
 
 - src/components - Reusable UI components
-- src/sections - Main page sections
-- src/data - Portfolio content and data
-- src/context - Theme context
-- src/hooks - Custom hooks
+- src/sections - Main portfolio sections
+- src/data - Portfolio content and structured data
+- src/context - Theme-related state
+- src/hooks - Reusable custom hooks
 - public - Static assets and metadata
 
-## Installation
+## Getting Started
 
 1. Clone the repository
    ```bash
@@ -64,8 +64,8 @@ npm run build
 
 ## Deployment
 
-This portfolio can be deployed on Vercel, Netlify, GitHub Pages, or any static hosting platform.
+This portfolio is ready to be deployed on Vercel, Netlify, GitHub Pages, or any modern static hosting platform.
 
 ## Contact
 
-If you want to connect or discuss collaboration opportunities, use the contact section in the website or reach out through the GitHub profile linked in the repository.
+Feel free to connect through the contact section on the website or reach out through the GitHub profile linked in the repository.
