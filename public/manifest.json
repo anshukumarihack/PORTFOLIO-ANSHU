@@ -1,0 +1,17 @@
+{
+  "name": "Alex Chen Portfolio",
+  "short_name": "Alex Chen",
+  "description": "Portfolio of Alex Chen - Computer Science Engineer & AI Enthusiast",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#111114",
+  "theme_color": "#111114",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
